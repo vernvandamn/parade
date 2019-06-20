@@ -61,7 +61,7 @@ export const theme = {
   shadow,
   breakpoints: {
     xs: '400px',
-    s: '600px',
+    s: '710px',
     m: '900px',
     l: '1200px',
   },

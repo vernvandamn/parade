@@ -17,6 +17,9 @@ const Wrapper = styled.header`
   }
   @media (max-width: ${props => props.theme.breakpoints.s}) {
     height: 275px;
+    h1 {
+      font-size: 2rem !important;
+    }
   }
   position: relative;
   overflow: hidden;
@@ -48,8 +51,8 @@ const Header = ({ children, title, date, cover }) => (
   <Wrapper>
     <Img fluid={cover || {} || [] || ''} />
     <Text>
-      <h1>{title}</h1>
-      <h3>{date}</h3>
+      <h1 style={{fontSize: '3.5rem'}}>{title}</h1>
+      {/* <h3>{date}</h3> */}
 
       {children && <Subtitle>{children}</Subtitle>}
     </Text>
