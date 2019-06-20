@@ -21,7 +21,6 @@
 <url> <loc>https://gatsby-tutorial-starter.netlify.com/parade/July4thSoldierOnFloat</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-tutorial-starter.netlify.com/parade/post-two</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-tutorial-starter.netlify.com/parade/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsby-tutorial-starter.netlify.com/parade/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-tutorial-starter.netlify.com/parade/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-tutorial-starter.netlify.com/parade/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
